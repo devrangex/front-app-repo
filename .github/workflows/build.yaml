@@ -1,5 +1,5 @@
 
-name: Build Front
+name: Build Front 2
 
 on:
   push:
